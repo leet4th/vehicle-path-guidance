@@ -15,7 +15,7 @@ This was created using Python 3.9.12.
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ### Run the simulation
