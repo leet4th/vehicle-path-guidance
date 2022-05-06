@@ -49,9 +49,9 @@ class RearWheelBicycleModel:
         # Front wheel point
         front = rear + np.dot(self.C_toLfromB, Lvec_B)
 
+        # Front wheel
         self.rear = rear
         self.front = front
-
 
     def update(self, steer_angle, vMag):
 
