@@ -1,7 +1,7 @@
 # vehicle-path-guidance
 
 ### Goal:
-- Develp a steering solution that allows a vehicle to follow a stright line, perform a U-Turn, and then follow the line again in the opposite direction
+- Develop a steering solution that allows a vehicle to follow a straight line, perform a U-Turn, and then follow the line again in the opposite direction
 
 ### Guidance and Control Approach
 See [Vehicle_Path_Guidance](https://github.com/leet4th/vehicle-path-guidance/blob/main/Vehicle_Path_Guidance.pdf) for a technical dive into the Guidance and Control solution.
