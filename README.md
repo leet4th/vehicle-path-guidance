@@ -1,8 +1,8 @@
 # vehicle-path-guidance
 
-![Animation](https://github.com/leet3th/vehicle-path-guidance/blob/main/animation.gif)
+![Animation](https://github.com/leet4th/vehicle-path-guidance/blob/main/animation.gif)
 
-<img src="https://github.com/leet3th/vehicle-path-guidance/blob/main/animation.gif" width="600" height="600" />
+<img src="https://github.com/leet4th/vehicle-path-guidance/blob/main/animation.gif" width="600" height="600" />
 
 ### Goal:
 - Develp a steering solution that allows a vehicle to follow a stright line, perform a U-Turn, and then follow the line again in the opposite direction
