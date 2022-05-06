@@ -1,10 +1,13 @@
 # vehicle-path-guidance
 
-Goal:
+![Animation](https://github.com/leet3th/vehicle-path-guidance/blob/main/animation.gif)
+
+<img src="https://github.com/leet3th/vehicle-path-guidance/blob/main/animation.gif" width="600" height="600" />
+
+### Goal:
 - Develp a steering solution that allows a vehicle to follow a stright line, perform a U-Turn, and then follow the line again in the opposite direction
 
-Assumptions
-
+### Assumptions:
 - Kinematic Bicycle Model
   - Surface is perfectly planer/flat
   - Front and Rear wheels connected by rigid link of fixed length
@@ -22,6 +25,3 @@ Assumptions
   - Wheel Base = 2.5 m
   - Max Steering Angle = 30 deg
   - Velocity Magnitude = 20 kph
-
-
-![Animation](https://github.com/leet4th/vehicle-path-guidance/blob/main/animation.gif)
