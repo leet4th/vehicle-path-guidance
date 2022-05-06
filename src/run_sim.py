@@ -11,7 +11,7 @@ from IPython import embed as ibp
 # Settings
 SHOW_PLOT = True
 SHOW_ANIMATION = True
-SAVE_ANIMATION = True
+SAVE_ANIMATION = False
 
 def run_sim(tStart, tEnd, dt, guidHandler, ctrl, sim):
 
